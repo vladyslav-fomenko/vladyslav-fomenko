@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Vladyslav Fomenko
-- 💣 My Team: Account (previous User Flow)
+- 💣 My Team: Acctivation
 - 📫 How to reach me fomenko.vladyslav@airslate.com 
